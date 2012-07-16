@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "pickupbox"
   gem.homepage = "http://github.com/wildfalcon/pickupbox"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{Upload files to a webapp using dropbox}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "laurie@wildfalcon.com"
   gem.authors = ["Laurie Young"]
